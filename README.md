@@ -40,4 +40,4 @@ The reducer aggregates the total counts for all occurrences of each word. Global
 ### Q3. Output Screenshot
 Below is the screenshot showing the execution of `hadoop fs -ls /user/hduser/gutenberg-output` and the resulting top 3 word counts:
 
-![Top 3 Output](top3_output.png)
+![Top 3 Output](output.png)
